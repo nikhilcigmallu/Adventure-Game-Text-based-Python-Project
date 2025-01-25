@@ -6,3 +6,4 @@ Multiple branching storylines based on user choices.
 Engaging scenarios like encountering a bear, crossing a river, or exploring a temple.
 Replayability with different paths and endings.
 ## Screenshot
+![image alt](https://github.com/nikhilcigmallu/Adventure-Game-Text-based-Python-Project/blob/da41902552d24d5563cb05d39c18617ee67e43ca/Screenshot%20.png)
